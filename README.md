@@ -1,9 +1,9 @@
 Coursera: Crash Course on Python
 ----------------------------------
 
-A quick revision of Python during COVID-19 :( 
+A quick revision of Python 
 
-This repository contains all the solution codes as notebook of the course assessments done by me.
+This repository contains all the solution codes as notebook of the course assessments.
 
 N.B. All the codes were tested and passed on coursera. If you find any error or face any issue, let me know through issue section. There is a chance that they may change or add problems in future. If you don't find any problem solution of practice quiz or module assessment, open an issue including the problem description along week number.
 
